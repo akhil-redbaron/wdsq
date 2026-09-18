@@ -16,7 +16,7 @@ body {
 	padding: 0;
 	box-sizing: border-box;
 	font-size: 16px;
-	background: #ededed url("bg.jpg") no-repeat center center;
+	background: #ededed ;
 	background-size: cover;
 	color: #000;
 	font-family: "Baskervville", serif;
@@ -54,7 +54,7 @@ h3 {
 
 @media only screen and (max-width: 991px) {
 body {
-	background: #ededed url("bg-small.jpg") no-repeat top center;
+	background: #ededed;
 	background-size: cover;
 	}
 	
